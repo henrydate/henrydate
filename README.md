@@ -8,11 +8,12 @@ Melbourne-based finance professional moving into institutional equity research. 
 
 * **Fundamental research:** bottom-up company analysis, business-quality and competitive-moat assessment, investment-thesis construction
 * **Valuation & modelling:** three-statement models, DCF with full WACC build, trading comparables, precedent transactions, scenario and sensitivity analysis
-* **Data & tooling:** Python (Pandas, NumPy), web scraping (Playwright, BeautifulSoup), official-data ingestion (ABS SDMX, RBA, CKAN), screening and coverage-universe architecture
+* **Data & tooling:** Python (Pandas, NumPy), web scraping (Playwright, BeautifulSoup), official-data ingestion (ABS SDMX, RBA, CKAN, RTA), resilient connector design, and applied econometrics (panel regressions, difference-in-differences)
 
 ## Featured Projects
 
-* **vic-housing-data:** Python pipeline that pulls and cleans official Victorian and ABS property and economic data into an analysis-ready package
+* **vic-housing-data:** Python pipeline that ingests official Victorian, ABS and RBA property and economic data into an analysis-ready SQLite package, with a quantitative layer — rental-yield decomposition, cash-rate sensitivity, and an interstate difference-in-differences on Victorian housing policy
+* **qld-housing-data:** companion Queensland pipeline — RTA bond-lodgement rents at suburb/postcode granularity plus ABS interstate price series, shipping an interactive postcode-level rent explorer (Excel) and a Brisbane-boom / rent-crisis analysis
 * **asx-coverage-toolkit:** a screening and coverage-universe toolkit over the listed Australian market (sector, index membership, key metrics, consensus), built as a self-serve research-triage tool
 * **equity-valuation-models:** a documented three-statement + DCF + comparables modelling framework, with a worked illustrative example and methodology notes
 * **Optimising_TA / awhaleofaportfolio:** earlier quantitative and FinTech projects (ensemble-ML signal testing; risk-weighted portfolio construction)
