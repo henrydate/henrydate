@@ -12,8 +12,10 @@ Melbourne-based finance professional moving into institutional equity research. 
 
 ## Featured Projects
 
-* **vic-housing-data:** Python pipeline that ingests official Victorian, ABS and RBA property and economic data into an analysis-ready SQLite package, with a quantitative layer — rental-yield decomposition, cash-rate sensitivity, and an interstate difference-in-differences on Victorian housing policy
-* **qld-housing-data:** companion Queensland pipeline — RTA bond-lodgement rents at suburb/postcode granularity plus ABS interstate price series, shipping an interactive postcode-level rent explorer (Excel) and a Brisbane-boom / rent-crisis analysis
+* **Australian housing-data series** — three state pipelines (**NSW · VIC · QLD**) on a shared SQLite engine, each adapted to that state's free-data landscape, with resilient official-data connectors, demand-side drivers (ABS migration/population), and an analysis layer:
+  * **[nsw-housing-data](https://github.com/henrydate/nsw-housing-data):** NSW Valuer-General **transaction-level** sales (every sale — price, land area, suburb), enabling true suburb medians, full price distributions and price-per-m² of land
+  * **[vic-housing-data](https://github.com/henrydate/vic-housing-data):** Valuer-General suburb medians + DFFH rents, with rental-yield decomposition, cash-rate sensitivity and an interstate **difference-in-differences** on Victorian housing policy
+  * **[qld-housing-data](https://github.com/henrydate/qld-housing-data):** RTA bond-lodgement rents at suburb/postcode granularity + an interactive postcode rent explorer (Excel); Brisbane-boom / rent-crisis analysis
 * **asx-coverage-toolkit:** a screening and coverage-universe toolkit over the listed Australian market (sector, index membership, key metrics, consensus), built as a self-serve research-triage tool
 * **equity-valuation-models:** a documented three-statement + DCF + comparables modelling framework, with a worked illustrative example and methodology notes
 * **Optimising_TA / awhaleofaportfolio:** earlier quantitative and FinTech projects (ensemble-ML signal testing; risk-weighted portfolio construction)
