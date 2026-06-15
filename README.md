@@ -30,7 +30,7 @@ B.Com (Accounting) & B.Finance, Monash University · Monash/edX FinTech Boot Cam
 
 ## Contact
 
-* LinkedIn
+* **[LinkedIn](https://www.linkedin.com/in/henry-date/)**
   
 ---
 
