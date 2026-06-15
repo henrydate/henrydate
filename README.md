@@ -31,7 +31,7 @@ B.Com (Accounting) & B.Finance, Monash University · Monash/edX FinTech Boot Cam
 ## Contact
 
 * LinkedIn
-* 
+  
 ---
 
 *Everything here is personal project work, shared to demonstrate analytical and technical capability. It is general information and educational material only, not financial product advice or a recommendation, and I am not licensed to provide financial advice. See individual repository disclaimers.*
