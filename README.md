@@ -2,7 +2,7 @@
 
 **Valuation, financial modelling, and the data tooling behind rigorous analysis.**
 
-Melbourne-based finance professional and Chartered Accountants Program candidate (CA ANZ, completing early 2027), with three years of financial analysis at a boutique advisory firm, a buy-side research internship, and a decade as an active equity investor. I build company financial and valuation models from first principles, think bottom-up about business quality, and write the Python and data tooling that supports a rigorous analytical process. My work centres on understanding what a business is worth, and why.
+Melbourne-based finance professional and Chartered Accountants Program candidate (CA ANZ, completing early 2027), with three years of financial analysis at a boutique tax firm, a buy-side research internship, and a decade as an active equity investor. I build company financial and valuation models from first principles, think bottom-up about business quality, and write the Python and data tooling that supports a rigorous analytical process. My work centres on understanding what a business is worth, and why.
 
 ## Focus
 
